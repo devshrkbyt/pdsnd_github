@@ -13,5 +13,5 @@ In this project, I made use of Python to explore data related to bike share syst
 - washington.csv
 
 ### Credits
-udacity     https://github.com/udacity/pdsnd_github.git 
+Udacity     https://github.com/udacity/pdsnd_github.git 
 
